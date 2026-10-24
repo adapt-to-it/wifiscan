@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>it</string>
+	<key>CFBundleDisplayName</key>
+	<string>WiFi Scanner</string>
+	<key>CFBundleExecutable</key>
+	<string>WifiScanner</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.marcoabbattista.wifiscanner</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>WifiScanner</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.4.0</string>
+	<key>CFBundleVersion</key>
+	<string>4</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>15.0</string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_http._tcp</string>
+		<string>_https._tcp</string>
+		<string>_ssh._tcp</string>
+		<string>_ipp._tcp</string>
+		<string>_ipps._tcp</string>
+		<string>_printer._tcp</string>
+		<string>_pdl-datastream._tcp</string>
+		<string>_smb._tcp</string>
+		<string>_afpovertcp._tcp</string>
+		<string>_nfs._tcp</string>
+		<string>_airplay._tcp</string>
+		<string>_raop._tcp</string>
+		<string>_googlecast._tcp</string>
+		<string>_hap._tcp</string>
+		<string>_companion-link._tcp</string>
+		<string>_device-info._tcp</string>
+		<string>_apple-mobdev2._tcp</string>
+		<string>_workstation._tcp</string>
+		<string>_rdlink._tcp</string>
+		<string>_sftp-ssh._tcp</string>
+	</array>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2026 Marco Abbattista</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>WiFi Scanner cerca dispositivi sulla rete locale per mostrarti chi è connesso al tuo Wi-Fi.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>WiFi Scanner mostra gli SSID delle reti vicine. macOS richiede il permesso di localizzazione per accedere ai nomi delle reti Wi-Fi.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>WiFi Scanner mostra gli SSID delle reti vicine. macOS richiede il permesso di localizzazione per accedere ai nomi delle reti Wi-Fi.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>WiFi Scanner mostra gli SSID delle reti vicine. macOS richiede il permesso di localizzazione per accedere ai nomi delle reti Wi-Fi.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>WiFi Scanner mostra gli SSID delle reti vicine. macOS richiede il permesso di localizzazione per accedere ai nomi delle reti Wi-Fi.</string>
+</dict>
+</plist>
